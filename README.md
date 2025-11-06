@@ -30,18 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilbertWalker-DE&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWalker-DE&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak & Profile Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GilbertWalker-DE&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=GilbertWalker-DE&label=Profile%20Views&color=blue&style=flat)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gilwalkerjr/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/GilbertWalker-DE)
